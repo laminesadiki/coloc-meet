@@ -1,0 +1,6 @@
+[submodule "coloc-meet-front"]
+	path = coloc-meet-front
+	url = git@github.com:sadiki-dev/coloc-meet-front.git
+[submodule "coloc-meet-back"]
+	path = coloc-meet-back
+	url = git@github.com:sadiki-dev/coloc-meet-back.git
